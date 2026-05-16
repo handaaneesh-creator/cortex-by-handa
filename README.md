@@ -1,2 +1,5 @@
-# cortex-by-handa
-Marketing intelligence and research app for now
+streamlit
+openai
+python-pptx
+pandas
+requests
